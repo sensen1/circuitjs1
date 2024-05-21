@@ -279,6 +279,7 @@
 "Crossbar Memory"="纵横储存器"
 "Crossover"="交叉"
 "Crystal Oscillator"="晶体振荡器"
+"Circuit Experiment"="渤海大学电路实验"
 "Current"="当前的"
 "Current (A)"="电流(A)"
 "Current Amplifier"="电流放大器"
