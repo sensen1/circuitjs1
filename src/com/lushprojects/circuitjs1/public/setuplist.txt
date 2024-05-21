@@ -3,8 +3,6 @@
 +Circuit Experiment
 circuit-lab2.txt Kirchhoff's Law Experiment
 -
-blank.txt Blank Circuit
--
 +Basics
 ohms.txt Ohm's Law
 resistors.txt Resistors
@@ -441,4 +439,5 @@ triacdimmer.txt DIAC/TRIAC Dimmer
 ujtosc.txt Unijunction Oscillator
 3motor.txt 3-Phase Motor
 latchingrelay.txt Latching Relay
-
+-
+blank.txt Blank Circuit
