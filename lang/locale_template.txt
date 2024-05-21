@@ -344,6 +344,7 @@
 "Ctrl-X"="Ctrl-X"
 "Ctrl-Y"="Ctrl-Y"
 "Ctrl-Z"="Ctrl-Z"
+"Circuit Experiment"
 "Current"="Current"
 "Current (A)"="Current (A)"
 "Current Amplifier"="Current Amplifier"
