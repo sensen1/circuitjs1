@@ -573,6 +573,7 @@
 "Jerk"
 "Johnson Counter"
 "Joule Thief"
+"Kirchhoff's Law experiment"
 "LC Ladder"
 "LC Modes (2)"
 "LC Modes (3)"
