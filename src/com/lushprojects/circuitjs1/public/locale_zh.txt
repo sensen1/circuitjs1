@@ -431,7 +431,7 @@
 "JK flip-flop"="JK触发器"
 "Johnson Counter"="环形计数器"
 "Joule Thief"="焦耳小偷"
-"Kirchhoff's Law experiment"="基尔霍夫定律实验"
+"Kirchhoff's Law Experiment"="基尔霍夫定律实验"
 "Label"="标签"
 "Lambda Diode"="λ二极管"
 "Lambda Diode Oscillator"="λ二极管振荡器"
