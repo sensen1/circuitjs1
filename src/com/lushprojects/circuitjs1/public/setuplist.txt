@@ -2,7 +2,7 @@
 
 +Circuit Experiment
 circuit-lab2.txt Kirchhoff's Law Experiment
-
+-
 +Basics
 ohms.txt Ohm's Law
 resistors.txt Resistors
