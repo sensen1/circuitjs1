@@ -38,20 +38,8 @@ class EditOptions implements Editable {
 	            EditInfo ei =  new EditInfo("Change Language", 0, -1, -1);
 	            ei.choice = new Choice();
 	            ei.choice.add("(no change)");
-	            ei.choice.add("Čeština");
-	            ei.choice.add("Dansk");
-	            ei.choice.add("Deutsch");
 	            ei.choice.add("English");
-	            ei.choice.add("Español");
-	            ei.choice.add("Français");
-	            ei.choice.add("Italiano");
-	            ei.choice.add("Norsk bokmål");
-	            ei.choice.add("Polski");
-	            ei.choice.add("Português");
-	            ei.choice.add("\u0420\u0443\u0441\u0441\u043a\u0438\u0439"); // Russian 
 	            ei.choice.add("\u4e2d\u6587 (\u4e2d\u56fd\u5927\u9646)"); // Chinese 
-	            ei.choice.add("\u4e2d\u6587 (\u53f0\u6e7e)"); // Chinese (tw) 
-	            ei.choice.add("日本語"); // Japanese
 	            return ei;
 		}
 		
@@ -103,20 +91,8 @@ class EditOptions implements Editable {
 		    	String langString = null;
 		    	switch (lang) {
 		    	// Czech is csx instead of cs because we are not ready to use it automatically yet
-		    	case 1: langString = "csx"; break;
-		    	case 2: langString = "da"; break;
-		    	case 3: langString = "de"; break;
-		    	case 4: langString = "en"; break;
-		    	case 5: langString = "es"; break;
-		    	case 6: langString = "fr"; break;
-		    	case 7: langString = "it"; break;
-		    	case 8: langString = "nb"; break;
-		    	case 9: langString = "pl"; break;
-			case 10: langString = "pt"; break;
-		    	case 11: langString = "ru"; break;
-		    	case 12: langString = "zh"; break;
-		    	case 13: langString = "zh-tw"; break;
-		    	case 14: langString = "ja"; break;
+		    	case 1: langString = "en"; break;
+		    	case 2: langString = "zh"; break;
 		    	}
 		    	if (langString == null)
 		    	    return;
